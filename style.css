@@ -1,0 +1,26 @@
+input{
+    background: aqua;
+    color: black;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    text-decoration: coral;
+}
+h1{
+    font-family: Bahnschrift;
+}
+body{
+    background: slategrey;
+}
+#mess,#mess2{
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+p{
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+#divlogin{
+    position: center;
+}
